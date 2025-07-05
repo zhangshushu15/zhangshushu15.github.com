@@ -5,6 +5,7 @@ export default function Header() {
         <span className="font-bold">MySite</span>
         <div>
           <a className="mr-4 hover:underline" href="#about">About</a>
+          <a className="mr-4 hover:underline" href="/blog">Blog</a>
           <a className="hover:underline" href="#contact">Contact</a>
         </div>
       </nav>
