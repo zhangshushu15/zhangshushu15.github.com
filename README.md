@@ -1,6 +1,6 @@
 # Personal Website
 
-This repository contains the source code for a simple personal website built with **Next.js** and **Tailwind CSS**.
+This repository contains the source code for a simple personal website built with **Next.js** and **Tailwind CSS**. The site includes basic sections like About and Contact and demonstrates how to structure a small project with reusable React components.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ This repository contains the source code for a simple personal website built wit
 ## Project Structure
 
 - `pages/` – application pages
-- `components/` – reusable React components
+- `components/` – reusable React components (Header and Footer)
 - `styles/` – global styles powered by Tailwind
 
 Feel free to customize the content under `pages/index.tsx` to suit your needs.
