@@ -1,6 +1,6 @@
 # Personal Website
 
-This repository contains the source code for a simple personal website built with **Next.js** and **Tailwind CSS**. The project is located in the `personal-site` directory.
+This repository contains the source code for a simple personal website built with **Next.js** and **Tailwind CSS**. All project files live in the repository root.
 
 ## Getting Started
 
